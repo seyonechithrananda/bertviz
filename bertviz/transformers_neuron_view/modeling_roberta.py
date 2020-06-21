@@ -37,12 +37,14 @@ ROBERTA_PRETRAINED_MODEL_ARCHIVE_MAP = {
     'roberta-base': "https://s3.amazonaws.com/models.huggingface.co/bert/roberta-base-pytorch_model.bin",
     'roberta-large': "https://s3.amazonaws.com/models.huggingface.co/bert/roberta-large-pytorch_model.bin",
     'roberta-large-mnli': "https://s3.amazonaws.com/models.huggingface.co/bert/roberta-large-mnli-pytorch_model.bin",
+    'chemberta-zinc250k': "https://s3.amazonaws.com/models.huggingface.co/bert/seyonec/ChemBERTa-zinc250k-v1/pytorch_model.bin",
 }
 
 ROBERTA_PRETRAINED_CONFIG_ARCHIVE_MAP = {
     'roberta-base': "https://s3.amazonaws.com/models.huggingface.co/bert/roberta-base-config.json",
     'roberta-large': "https://s3.amazonaws.com/models.huggingface.co/bert/roberta-large-config.json",
     'roberta-large-mnli': "https://s3.amazonaws.com/models.huggingface.co/bert/roberta-large-mnli-config.json",
+    'chemberta-zinc250k': "https://s3.amazonaws.com/models.huggingface.co/bert/seyonec/ChemBERTa-zinc250k-v1/config.json",
 }
 
 
